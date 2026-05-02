@@ -3,13 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=flec1115" alt="flec1115" /></a> </p>
 
-- 🌱 I’m currently learning **computer networking, TCP/IP**
 
-- 💬 Ask me about **NeoVim**
+- 💬 Ask me about **Cooking**
 
 - 📫 How to reach me **balandranf11@gmail.com**
 
-- ⚡ Fun fact **I use Arch btw**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
